@@ -9,6 +9,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="WSL LLVM-8 (c26901b4-275e-4391-b94e-b729f95f5951)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="WSL gcc (e53ee58c-d67d-46b1-89d0-42c603fab3f5)">
         <serverdata>
           <mappings>
