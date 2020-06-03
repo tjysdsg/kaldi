@@ -1,5 +1,5 @@
 build/
-dist/
+installed/
 # Compiled extensionless executable files in /src/*/
 # This stanza must precede wildcard patterns below!
 /src/*/*
@@ -159,4 +159,3 @@ GSYMS
 # These CMakeLists.txt files are all genareted on the fly at the moment.
 # They are added here to avoid accidently checkin.
 /src/**/CMakeLists.txt
-/build*
